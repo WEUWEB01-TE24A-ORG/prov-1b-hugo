@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body{
+background-image: url(./bilder/bakgrund.jpg);
+
+width: 200%;
+}
+h1 {
+    color: #38f7ff;
+    width:500px;
+    border-top: 5px solid #38f7ff;
+    border-bottom: 5px solid #38f7ff;
+    margin-left: 100px;
+    text-decoration:solid;
+    font-family: "Playfair Display", serif;
+    font-size: 70px;
+    
+}
+h2 {
+    color: #38f7ff;
+    margin-left: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+p {
+    margin-left: 100px;
+    background-color: #38f7ff;
+    border-radius: 10px;
+    width: 575px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+a {
+
+}
+img {
+    margin-left: 100px;
+    background-color: #38f7ff;
+    border-radius: 10px;
+    padding: 40px;
+}
+table {
+    margin-left: 100px;
+    width: 575px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+tr {
+    
+    border-radius: 10px;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+th {
+    background-color: #38f7ff;
+    border-radius: 5px;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+td {
+    
+    border-radius: 10px;
+    padding: 10px;
+    border: 1px solid #38f7ff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
