@@ -3,17 +3,25 @@
 body{
 background-image: url(./bilder/bakgrund.jpg);
 
-width: 200%;
+background-position: 53cm 28cm;
+width: 100%;
+
+
 }
 h1 {
     color: #38f7ff;
-    width:500px;
-    border-top: 5px solid #38f7ff;
-    border-bottom: 5px solid #38f7ff;
+    
+    border-left: #38f8ff00;
+    border-right: #38f7ff00;
+    border-width: 10px;
+    border-top: 3px solid #38f7ff;
+    border-bottom: 3px solid #38f7ff;
+   width:650px;
     margin-left: 100px;
     text-decoration:solid;
     font-family: "Playfair Display", serif;
-    font-size: 70px;
+    font-size: 60px;
+    letter-spacing: 20px;
     
 }
 h2 {
@@ -23,19 +31,23 @@ h2 {
 }
 p {
     margin-left: 100px;
-    background-color: #38f7ff;
+    background-color: #00a6ad;
     border-radius: 10px;
-    width: 575px;
+    padding: 10px;
+    width: 555px;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 a {
+    color: rgb(153, 33, 20);
+    text-decoration: none;
 
 }
 img {
     margin-left: 100px;
-    background-color: #38f7ff;
+    background-color: #00a6ad;
     border-radius: 10px;
-    padding: 40px;
+    padding: 20px;
+    width: 535px;
 }
 table {
     margin-left: 100px;
@@ -49,7 +61,7 @@ tr {
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 th {
-    background-color: #38f7ff;
+    background-color: #00a6ad;
     border-radius: 5px;
     padding: 10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif
@@ -58,7 +70,7 @@ td {
     
     border-radius: 10px;
     padding: 10px;
-    border: 1px solid #38f7ff;
+    border: 1px solid #00a6ad;
     font-family:Verdana, Geneva, Tahoma, sans-serif
     
 }
